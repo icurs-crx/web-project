@@ -1,3 +1,9 @@
 #begin {
     color:blanchedalmond;
 }
+
+#btn {
+    padding:10px;
+    background-color:orange;
+    text-align:center;
+}
