@@ -1,8 +1,17 @@
+header, footer {
+    background-color:chocolate;
+    padding: 10px;
+    text-align:Center;
+}
+section {
+    padding: 20%;
+}
 #begin {
     color:blanchedalmond;
 }
 
 #btn {
+    margin-left:40%;
     padding: 10px 10px 10px 10px;
     background-color: orange;
     text-align: center;
